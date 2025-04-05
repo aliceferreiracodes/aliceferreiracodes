@@ -26,28 +26,4 @@ I'm a Computer Science student passionate about learning.
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceferreiracodes&layout=donut&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
     </a>
   </div>
-</div> <br> <br>
-
-🔍 Check out some of my main repositories:
-
-<!-- pinned repositories -->
-<div>
-  <div>
-    <a href="https://github.com/aliceferreiracodes/tiriads-quest">
-      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliceferreiracodes&repo=tiriads-quest&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
-    </a>
-    <a href="https://github.com/aliceferreiracodes/Gerenciamento_estudantil_rv">
-      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anaclaracald&repo=Gerenciamento_estudantil_rv&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
-    </a>
-  </div>
-
-  <div>
-    <a href="https://github.com/aliceferreiracodes/bank-system">
-      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliceferreiracodes&repo=bank-system&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
-    </a>
-    <a href="https://github.com/aliceferreiracodes/market-system">
-      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliceferreiracodes&repo=market-system&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
-    </a>
-  </div>
-  
 </div>
