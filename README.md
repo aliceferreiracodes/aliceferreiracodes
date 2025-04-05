@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hey there, I'm Alice!
+<!-- badges -->
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width=40px height=40px/>
+</div> <br>
 
-<!--
-**aliceferreiracodes/aliceferreiracodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 I’m currently working on game development and Python projects, besides all the uni stuff, and leaning AI and Python libraries, such as NumPy, Pandas, Matplotlib, scikit-learn and more!
+
+
+<!-- stats and top languages -->
+<div>
+  
+  <div>
+    <a href="https://github.com/aliceferreiracodes/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aliceferreiracodes&theme=transparent&bg_color=f8fff0&border_color=77d724&show_icons=true&icon_color=7ce5dd&title_color=77d724&text_color=7ce5dd" />
+    </a>
+    <a href="https://github.com/aliceferreiracodes/top-languages">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceferreiracodes&layout=donut&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
+    </a>
+  </div>
+</div> <br> <br>
+
+🔍 Check out some of my main repositories:
+
+<!-- pinned repositories -->
+<div>
+  <div>
+    <a href="https://github.com/aliceferreiracodes/tiriads-quest">
+      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliceferreiracodes&repo=tiriads-quest&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
+    </a>
+    <a href="https://github.com/aliceferreiracodes/Gerenciamento_estudantil_rv">
+      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anaclaracald&repo=Gerenciamento_estudantil_rv&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
+    </a>
+  </div>
+
+  <div>
+    <a href="https://github.com/aliceferreiracodes/bank-system">
+      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliceferreiracodes&repo=bank-system&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
+    </a>
+    <a href="https://github.com/aliceferreiracodes/market-system">
+      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliceferreiracodes&repo=market-system&theme=transparent&bg_color=f8fff0&border_color=77d724&title_color=77d724&text_color=7ce5dd" />
+    </a>
+  </div>
+  
+</div>
